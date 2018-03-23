@@ -1,0 +1,30 @@
+.second{
+    float:left;
+}
+#first{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.thumbnail img{
+    width: 1000px;
+    height:200px;
+}
+
+.thumbnail{
+    padding: 0;
+}
+
+.thumbnail .caption-full{
+    padding: 9px;
+}
+
+#delete-form{
+    display: inline;
+}
+
+.delete-form{
+    display: inline;
+}
